@@ -10,7 +10,7 @@
 
 :heavy_exclamation_mark: _Important Libraries and Modules:_ Numpy, Pandas, Tensorflow and Tensorflow Dataset
 
-:dart: _Primary Goal:_ Classifying the images(Rock, Paper, Scissor) using CNN.
+:dart: _Primary Goal:_ Classifying the images(Rock, Paper, Scissor) with CNN using TENSORFLOW dataset.
 
 :bulb: _Approaches:_ Rather than taking input in form of dictionary i.e {inpuy: "input", label: "label"}, by using **"as_supervised = True"** now will have 2-tuple structure i.e. (input, label). Then created 16 batches for both training as well as testing. The main task starts here! 
 1. Created INPUT LAYER of 300x300 for <br> tf.keras.layers.InputLayer(input_shape=(300,300,3)
