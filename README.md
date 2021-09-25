@@ -6,15 +6,15 @@
 ## Project: _Rock_Paper_Scissor_
 ------
 
-Dataset: https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
+:information_source: Dataset: https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 
-Important Libraries and Modules: Numpy, Pandas, Tensorflow and Tensorflow Dataset
+:heavy_exclamation_mark: _Important Libraries and Modules:_ Numpy, Pandas, Tensorflow and Tensorflow Dataset
 
-_Primary Goal:_ 
+:dart: _Primary Goal:_ Classifying the images(Rock, Paper, Scissor) using CNN.
 
-_Approaches:_
+:bulb: _Approaches:_ 
 
-_Result:_
+:chart_with_upwards_trend: _Result:_
 
 Technologies: <img src = "https://user-images.githubusercontent.com/67642750/134745049-58537d7a-4803-483a-8666-394e35931e0e.png" width="30" height="30">
 <img src = "https://user-images.githubusercontent.com/67642750/134744907-ca78d295-716d-41fe-a676-f409b10ac4f4.png" width="30" height="30">
